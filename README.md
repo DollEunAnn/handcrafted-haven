@@ -6,17 +6,6 @@ Our mission is to revolutionize how handcrafted treasures are discovered, foster
 
 ---
 
-## Team Members (WDD 430 Team 11)
-
-This application is proudly developed and maintained by:
-
-* **Boiketlo Nzimande**
-* **Eunice Ann Hernandez Dollete**
-* **Minenhle Nkanyezi Hlongwane**
-* **Yakan Frank**
-
----
-
 ## Key Features & Specifications
 
 ### Seller Profiles
@@ -29,3 +18,14 @@ This application is proudly developed and maintained by:
   
 ### Community Engagement
 * **Reviews & Ratings:** Built on trust, any user can leave a star rating and a detailed written review for products they interact with.
+
+---
+
+## Team Members (WDD 430 Team 11)
+
+This application is proudly developed and maintained by:
+
+* **Boiketlo Nzimande**
+* **Eunice Ann Hernandez Dollete**
+* **Minenhle Nkanyezi Hlongwane**
+* **Yakan Frank**
