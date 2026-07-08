@@ -20,12 +20,12 @@ This application is proudly developed and maintained by:
 ## Key Features & Specifications
 
 ### Seller Profiles
-* **Artisan Storytelling:** Authenticated sellers get a dedicated profile to share their craftsmanship journey, inspiration, and background.
-* **Curated Collections:** Artisans can easily manage, display, and add detailed descriptions to a curated gallery of their work.
+* Authenticated sellers have dedicated profiles, enabling them to showcase their craftsmanship, share their stories, and display a curated collection of their handcrafted items. Artisans can add product descriptions.
 
 ### Product Listings & Discovery
-* **Easy Listing:** Sellers can list items complete with rich descriptions, pricing, and images.
-* **Smart Browsing:** Users can seamlessly browse the catalog and filter products by category, price range, or other specific criteria.
-
+* The web application allows artisans to list their handcrafted items for sale, complete with descriptions, pricing, and images.
+  
+* Users can browse through the catalog, filter by category, price range, or other relevant criteria.
+  
 ### Community Engagement
 * **Reviews & Ratings:** Built on trust, any user can leave a star rating and a detailed written review for products they interact with.
